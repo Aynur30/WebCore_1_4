@@ -13,7 +13,7 @@ html {
 }
 
 body {
-    margin: 0;
+    padding: 0;
     
 }
 
@@ -40,11 +40,11 @@ body {
 
 .left-menu header *:nth-child(3) {
     float: right;
-    margin-top: 6px;
+    padding-top: 6px;
 }
 
 .left-menu header button:first-child {
-    margin-right: 16px;
+    padding-right: 16px;
 }
 
 .left-menu header button {
@@ -56,7 +56,7 @@ body {
 
 .main-menu ul {
     list-style: none;
-    margin: 0;
+    padding: 0;
     padding: 0;
 }
 
@@ -106,8 +106,8 @@ body {
 }
 
 .lang-select {
-    margin-bottom: 32px;
-    margin-left: 24px;
+    padding-bottom: 32px;
+    padding-left: 24px;
 }
 
 .lang-select button {
@@ -121,8 +121,8 @@ body {
 }
 
 .phone {
-    margin-bottom: 40px;
-    margin-left: 24px;
+    padding-bottom: 40px;
+    padding-left: 24px;
     font-family: "TT Lakes Medium";
     font-weight: bold;
     font-size: 24px;
@@ -130,13 +130,13 @@ body {
 }
 
 .email {
-    margin-left: 24px;
-    margin-bottom: 12px;
+    padding-left: 24px;
+    padding-bottom: 12px;
 }
 
 .left-menu footer div {
-    margin-left: 24px;
-    margin-bottom: 16px;
+    padding-left: 24px;
+    padding-bottom: 16px;
 }
 
 .left-menu footer div button{
@@ -144,6 +144,6 @@ body {
     background-color: inherit;
     cursor: pointer;
     padding: 0;
-    margin-right: 16px;
+    padding-right: 16px;
     font-family: "TT Lakes Medium";
 }
